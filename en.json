@@ -1,0 +1,11 @@
+{
+  "EPP_Common": {
+    "YouCanConvertMsg": "You can convert this transaction into installments now! At an interest rate starting only from {{rate}}%*. With your preferred different payment period.",
+    "Convert": "Convert to Installments.",
+    "Error": "Sorry, something went wrong!",
+    "UnableToProcess": "We are currently unable to process your request. Please try again later.",
+    "TransactionDetails": "Transaction Details.",
+    "OutstandingAmount": "Outstanding Amount.",
+    "MerchantName": "Merchant Name:"
+  }
+}
